@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--#region Typography-->
+    <dimen name="min_circle_size">16dp</dimen>
+    <dimen name="min_circle_size_test">10dp</dimen>
+    <dimen name="max_circle_size">24dp</dimen>
+    <!--#endregion-->
+</resources>
